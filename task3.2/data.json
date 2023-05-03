@@ -1,0 +1,17 @@
+{
+    "tshortsAsk": {
+        "s_m": 10,
+        "m_l": 10,
+        "l_xl": 10,
+        "xl_xxl": 10,
+        "xxl_xxxl": 10
+    },
+    "tshortsHave":{
+        "s": 10,
+        "m": 5,
+        "l": 10,
+        "xl": 10,
+        "xxl": 10,
+        "xxxl": 10
+    }
+}
